@@ -1,0 +1,6 @@
+train: D:/practical_exam/Persian_Car_Plates_YOLOV8-20241121T052702Z-001/Persian_Car_Plates_YOLOV8/train/images
+val: D:/practical_exam/Persian_Car_Plates_YOLOV8-20241121T052702Z-001/Persian_Car_Plates_YOLOV8/valid/images
+test: D:/practical_exam/Persian_Car_Plates_YOLOV8-20241121T052702Z-001/Persian_Car_Plates_YOLOV8/test/images
+
+nc: 1
+names: ['plates'] 
